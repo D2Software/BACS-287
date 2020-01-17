@@ -1,0 +1,84 @@
+C:\Users\Darrne\Source\Repos\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.csprojAssemblyReference.cache
+C:\Users\Darrne\Source\Repos\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.login.resources
+C:\Users\Darrne\Source\Repos\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.accountCreation.resources
+C:\Users\Darrne\Source\Repos\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.Properties.Resources.resources
+C:\Users\Darrne\Source\Repos\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.csproj.GenerateResource.cache
+C:\Users\Darrne\Source\Repos\Tokyo Hair Project\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.exe.config
+C:\Users\Darrne\Source\Repos\Tokyo Hair Project\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.exe
+C:\Users\Darrne\Source\Repos\Tokyo Hair Project\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.pdb
+C:\Users\Darrne\Source\Repos\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.tickets.resources
+C:\Users\Darrne\Source\Repos\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.confirm.resources
+C:\Users\Darrne\Source\Repos\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.confirmation.resources
+C:\Users\Darrne\Source\Repos\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.Admin.resources
+C:\Users\Darrne\Source\Repos\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.exe
+C:\Users\Darrne\Source\Repos\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.pdb
+D:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.csprojAssemblyReference.cache
+D:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.login.resources
+D:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.accountCreation.resources
+D:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.tickets.resources
+D:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.confirm.resources
+D:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.Admin.resources
+D:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.Properties.Resources.resources
+D:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.csproj.GenerateResource.cache
+D:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.exe
+D:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.pdb
+D:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.exe.config
+D:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.exe
+D:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.pdb
+E:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.csprojAssemblyReference.cache
+E:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.login.resources
+E:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.accountCreation.resources
+E:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.tickets.resources
+E:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.confirm.resources
+E:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.Admin.resources
+E:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.Properties.Resources.resources
+E:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.csproj.GenerateResource.cache
+E:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.csproj.CoreCompileInputs.cache
+E:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.exe
+E:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.pdb
+E:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.exe.config
+E:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.exe
+E:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.pdb
+D:\BACS287\Projects\Tokyo Hair Project\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.csproj.CoreCompileInputs.cache
+E:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.csprojAssemblyReference.cache
+E:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.login.resources
+E:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.accountCreation.resources
+E:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.tickets.resources
+E:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.confirm.resources
+E:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.Admin.resources
+E:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.Properties.Resources.resources
+E:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.csproj.GenerateResource.cache
+E:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.csproj.CoreCompileInputs.cache
+E:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.exe
+E:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.pdb
+E:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.exe.config
+E:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.exe
+E:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.pdb
+D:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.exe.config
+D:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.exe
+D:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.pdb
+D:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.csprojAssemblyReference.cache
+D:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.login.resources
+D:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.accountCreation.resources
+D:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.tickets.resources
+D:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.confirm.resources
+D:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.Admin.resources
+D:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.Properties.Resources.resources
+D:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.csproj.GenerateResource.cache
+D:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.exe
+D:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.pdb
+D:\BACS287\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.Startup.resources
+D:\BACS287\Projects\Tokyo Hair Project - Copy\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.exe.config
+D:\BACS287\Projects\Tokyo Hair Project - Copy\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.exe
+D:\BACS287\Projects\Tokyo Hair Project - Copy\Tokyo Hair Project\bin\Debug\Tokyo Hair Project.pdb
+D:\BACS287\Projects\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.csprojAssemblyReference.cache
+D:\BACS287\Projects\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.login.resources
+D:\BACS287\Projects\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.accountCreation.resources
+D:\BACS287\Projects\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.tickets.resources
+D:\BACS287\Projects\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.confirm.resources
+D:\BACS287\Projects\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.Admin.resources
+D:\BACS287\Projects\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.Properties.Resources.resources
+D:\BACS287\Projects\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo_Hair_Project.Startup.resources
+D:\BACS287\Projects\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.csproj.GenerateResource.cache
+D:\BACS287\Projects\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.exe
+D:\BACS287\Projects\Tokyo Hair Project - Copy\Tokyo Hair Project\obj\Debug\Tokyo Hair Project.pdb

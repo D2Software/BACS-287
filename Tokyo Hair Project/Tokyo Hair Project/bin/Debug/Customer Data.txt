@@ -1,0 +1,17 @@
+Darren,first.last@hardy.neet,0,5,0,375,6823,1234567890123456,Me,123
+Jim,first.last@hardy.neet,0,12,0,900,9909,987654321098765,ddd,123
+Terry,first.last@hardy.neet,0,0,9,950,1332,1111111111111111,sda,453
+Lawrence,first.last@hardy.neet,5,0,0,625,9588,1234123412341234,jdj,123
+Jill,first.last@hardy.neet,0,0,3,150,1419,1234123412341234,dddd,123
+Tim,first.last@hardy.neet,5,0,0,625,4733,1234123412341234,ddd,123
+Jarrod,first.last@hardy.neet,5,0,0,625,8636,1010101010101010,sss,222
+Jane,first.last@hardy.neet,0,12,0,900,8646,4444444444444444,fdd,234
+Darren,first.last@hardy.neet,7,0,0,875,5092,1111111111111111,www,333
+Darren,first.last@hardy.neet,0,6,0,450,5885,2222222222222222,DDD,222
+Darren,first.last@hardy.neet,0,0,19,950,3962,2222222222222222,ddd,333
+Darren,first.last@hardy.neet,0,0,0,0,7718,1111111111111111,sss,222
+Darren,first.last@hardy.neet,0,0,1,50,3220,2222222222222222,eee,333
+Darren,first.last@hardy.neet,0,0,0,0,4164,1111111111111111,sss,111
+Darren,first.last@hardy.neet,0,0,0,0,9706,2222222222222222,ddd,333
+Darren,first.last@hardy.neet,0,0,0,0,5431,4444444444444444,qqq,111
+Darren,first.last@hardy.neet,0,0,10,500,2045,4444444444444444,qqq,222
